@@ -20,7 +20,7 @@ const videos = {
     { title: "ミュージカル3(コメ付き)", url: "https://www.youtube.com/watch?v=VSxb4rnuZ5k" },
   ],
   MAD: [
-    { title: "ブルアカ淫夢(おとめっど)", url: "https://www.youtube.com/watch?v=YUMhTFTKjTw&t=124s" },
+    { title: "ブルアカ淫夢(おとめっど)", url: "https://www.nicovideo.jp/watch/sm43939977" },
     { title: "淫夢ゴロック(吹替版)", url: "https://www.youtube.com/watch?v=_i_UpVf2GEI" },
     { title: "ニセ淫夢語録集(東大編)", url: "https://www.youtube.com/watch?v=FcXHccAcG7k" },
     { title: "ニセ淫夢語録集(粘土マン)", url: "https://www.youtube.com/watch?v=zO2HlSqoRsU&list=PLMMGsMdWrA-GoypwNCLaU9SBnb20lO91_" },
