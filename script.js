@@ -12,6 +12,7 @@ const videos = {
     { title: "野獣先輩ダンス(niconico)", url: "https://www.youtube.com/watch?v=DQFxW-v0WSQ" },
     { title: "きららアニメ", url: "https://www.youtube.com/watch?v=HG0hT_WPLiw" },
     { title: "演歌", url: "https://www.youtube.com/watch?v=U6OsJJMvgKA" },
+    { title: "俺の人権を返せ(First Take)", url: "https://www.youtube.com/watch?v=l___Iu6Qs30&list=RDl___Iu6Qs30&start_radio=1"},
   ],
   education: [
     { title: "YAJU&U", url: "https://www.youtube.com/watch?v=niKAylKNIEI" },
